@@ -1,0 +1,11 @@
+COMO GERAR O APK DO ECOCOLETA (sem instalar nada no computador)
+
+1. Crie uma conta gratuita em github.com (se ainda não tiver).
+2. Crie um repositório novo (ex.: ecocoleta) e envie TODOS os arquivos desta pasta
+   (inclusive a pasta oculta .github). Dica: botão "uploading an existing file".
+3. Abra a aba "Actions" do repositório. O "Gerar APK" roda sozinho (leva uns 5 minutos).
+4. Quando ficar verde, clique nele e baixe "EcoColeta-apk" no fim da página.
+5. Descompacte o zip, passe o app-debug.apk para o celular e abra.
+   Se o Android pedir, permita "instalar apps desconhecidos".
+
+Para mudar o app: edite www/index.html e envie de novo; o APK é refeito.
